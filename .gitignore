@@ -1,0 +1,4 @@
+result_*/
+*.pyc
+*.sh
+dataset/cifar10-data
