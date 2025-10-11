@@ -1,9 +1,9 @@
-# GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search
+# GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search
 
-This repository provides the official PyTorch implementation of our work *"GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search"*, which has been accepted for publication at **IEEE Transactions on Information Forensics & Security 2025**.
+This repository provides the official PyTorch implementation of our work *"GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search"*, which has been accepted for publication at **IEEE Transactions on Information Forensics & Security 2025**.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20725)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://ieeexplore.ieee.org/document/11080068)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-006bb8)](https://ieeexplore.ieee.org/document/11080068)
 
 If you have any concerns when using this repository, feel free to contact me (Email: wenbo.research@gmail.com).
 
@@ -40,6 +40,8 @@ python runimagenet.py
   title={Gi-nas: Boosting gradient inversion attacks through adaptive neural architecture search},
   author={Yu, Wenbo and Fang, Hao and Chen, Bin and Sui, Xiaohang and Chen, Chuan and Wu, Hao and Xia, Shu-Tao and Xu, Ke},
   journal={IEEE Transactions on Information Forensics and Security},
+  volume={20},
+  pages={7648--7662},
   year={2025},
   publisher={IEEE}
 }
